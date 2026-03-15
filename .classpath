@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Skill 1"/>
+	<classpathentry kind="src" path="Skill 12/backend/src/main/java"/>
+	<classpathentry kind="src" path="Skill 13/backend/src/main/java"/>
+	<classpathentry kind="src" path="Skill 13/backend/src/test/java"/>
+	<classpathentry kind="src" path="Skill 2/src/main/java"/>
+	<classpathentry kind="src" path="Skill 3/src/main/java"/>
+	<classpathentry kind="src" path="Skill 4/src/main/java"/>
+	<classpathentry kind="src" path="Skill 5/src/main/java"/>
+	<classpathentry kind="src" path="Skill 5/src/test/java"/>
+	<classpathentry kind="src" path="Skill 6/src/main/java"/>
+	<classpathentry kind="src" path="Skill 6/src/test/java"/>
+	<classpathentry kind="src" path="Skill 7/src/main/java"/>
+	<classpathentry kind="src" path="Skill 7/src/test/java"/>
+	<classpathentry kind="src" path="Skill 8/src/main/java"/>
+	<classpathentry kind="src" path="Skill 8/src/test/java"/>
+	<classpathentry kind="src" path="Skill 9/backend/src/main/java"/>
+	<classpathentry kind="output" path="Skill 2/target/classes"/>
+</classpath>
